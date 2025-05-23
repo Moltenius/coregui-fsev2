@@ -1,6 +1,9 @@
 # coregui-fsev2
 fsev2 that uses exploits to get a coregui advantage in Script Building servers.
 ------------------------------------------------------------------------
+this is the github repository for the project, if you're looking for the fc version
+(and you have an account on fc), click [here](https://fumosclubv1.vercel.app/) and search up "coregui_fsev2".
+------------------------------------------------------------------------
 ### notice: client runner requires exploit executor.
 
 ### client runner:
